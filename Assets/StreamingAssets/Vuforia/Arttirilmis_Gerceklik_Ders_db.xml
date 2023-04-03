@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="SolarSystemCart2" size="100.000000 139.772720" />
+    <ImageTarget name="SolarSystemCart" size="1080.000000 1509.545410" />
+    <ImageTarget name="Deneme3" size="100.000000 133.333328" />
+    <ImageTarget name="Deneme2" size="100.000000 200.000000" />
+    <ImageTarget name="Deneme1" size="1080.000000 2160.000000" />
+  </Tracking>
+</QCARConfig>
